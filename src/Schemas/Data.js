@@ -69,7 +69,7 @@ export const Data = {
         period: "May. 2022 - Apr. 2023",
         company: "Speqto Technologies",
         description: [
-          "Collaborated with the team to develop a bulk solution for outreach, increasing our capability from 10k/day to 10k per hour. The project involved creating resiliency and self-healing solutions for async tasks, developing bulk support for APIs while ensuring backward compatibility, and standardising/benchmarking pods cpu/memory limit & request.",
+          "The project involved creating resiliency and self-healing solutions for async tasks, developing bulk support for APIs while ensuring backward compatibility, and standardising/benchmarking pods cpu/memory limit & request.",
           "Integrated communication solutions with vendors such as PostGrid for letters and Twilio for voice/SMS.",
           "Developed health & sanity checks for a seamless deployment process on a new customer."
         ],
