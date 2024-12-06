@@ -18,7 +18,7 @@ export const Data = {
     technicalSkills: [
       "JavaScript",
       "Java",
-      "Spring Boot"
+      "Spring Boot",
       "React",
       "Next",
       "Express",
