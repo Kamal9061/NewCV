@@ -17,6 +17,8 @@ export const Data = {
     softLabel: "Skills",
     technicalSkills: [
       "JavaScript",
+      "Java",
+      "Spring Boot"
       "React",
       "Next",
       "Express",
